@@ -1,0 +1,1126 @@
+                "city_name": "Copenhagen",
+                "city_population": 794128,
+                "city_coordinates": {"latitude": 55.6761, "longitude": 12.5683}
+            },
+            {
+                "city_name": "Aarhus",
+                "city_population": 280000,
+[
+    {
+        "country": "Albania",
+        "population": 2877797,
+        "surface_area": 28748,
+        "flag_description": "A red flag with a black double-headed eagle.",
+        "prime_minister": "Edi Rama",
+        "government_type": "Parliamentary Republic",
+        "capital": "Tirana",
+        "largest_cities": [
+            {
+                "city_name": "Tirana",
+                "city_population": 421286,
+                "city_coordinates": {"latitude": 41.3275, "longitude": 19.8189}
+            },
+            {
+                "city_name": "Durrës",
+                "city_population": 122034,
+                "city_coordinates": {"latitude": 41.3231, "longitude": 19.4564}
+            },
+            {
+                "city_name": "Vlorë",
+                "city_population": 79471,
+                "city_coordinates": {"latitude": 40.4662, "longitude": 19.4890}
+            }
+        ]
+    },
+    {
+        "country": "Andorra",
+        "population": 77265,
+        "surface_area": 468,
+        "flag_description": "Three vertical stripes of blue, yellow, and red.",
+        "prime_minister": "Xavier Espot Zamora",
+        "government_type": "Parliamentary Co-principality",
+        "capital": "Andorra la Vella",
+        "largest_cities": [
+            {
+                "city_name": "Andorra la Vella",
+                "city_population": 22690,
+                "city_coordinates": {"latitude": 42.5063, "longitude": 1.5211}
+            },
+            {
+                "city_name": "Escaldes-Engordany",
+                "city_population": 14938,
+                "city_coordinates": {"latitude": 42.5102, "longitude": 1.5467}
+            },
+            {
+                "city_name": "Encamp",
+                "city_population": 13602,
+                "city_coordinates": {"latitude": 42.5924, "longitude": 1.5792}
+            }
+        ]
+    },
+    {
+        "country": "Austria",
+        "population": 8917205,
+        "surface_area": 83879,
+        "flag_description": "Three horizontal stripes of red, white, and red.",
+        "prime_minister": "Karl Nehammer",
+        "government_type": "Federal Parliamentary Republic",
+        "capital": "Vienna",
+        "largest_cities": [
+            {
+                "city_name": "Vienna",
+                "city_population": 1897491,
+                "city_coordinates": {"latitude": 48.2082, "longitude": 16.3738}
+            },
+            {
+                "city_name": "Graz",
+                "city_population": 280200,
+                "city_coordinates": {"latitude": 47.0707, "longitude": 15.4395}
+            },
+            {
+                "city_name": "Linz",
+                "city_population": 205726,
+                "city_coordinates": {"latitude": 48.3069, "longitude": 14.2858}
+            }
+        ]
+    },
+    {
+        "country": "Belarus",
+        "population": 9449323,
+        "surface_area": 207600,
+        "flag_description": "A red and green flag with a vertical stripe containing a traditional Belarusian pattern.",
+        "prime_minister": "Roman Golovchenko",
+        "government_type": "Presidential Republic",
+        "capital": "Minsk",
+        "largest_cities": [
+            {
+                "city_name": "Minsk",
+                "city_population": 1987392,
+                "city_coordinates": {"latitude": 53.9045, "longitude": 27.5590}
+            },
+            {
+                "city_name": "Gomel",
+                "city_population": 361100,
+                "city_coordinates": {"latitude": 52.4410, "longitude": 30.9754}
+            },
+            {
+                "city_name": "Mogilev",
+                "city_population": 370900,
+                "city_coordinates": {"latitude": 53.8988, "longitude": 30.0800}
+            }
+        ]
+    },
+    {
+        "country": "Belgium",
+        "population": 11589623,
+        "surface_area": 30528,
+        "flag_description": "Three vertical stripes of black, yellow, and red.",
+        "prime_minister": "Alexander De Croo",
+        "government_type": "Federal Parliamentary Constitutional Monarchy",
+        "capital": "Brussels",
+        "largest_cities": [
+            {
+                "city_name": "Brussels",
+                "city_population": 1211035,
+                "city_coordinates": {"latitude": 50.8503, "longitude": 4.3517}
+            },
+            {
+                "city_name": "Antwerp",
+                "city_population": 529247,
+                "city_coordinates": {"latitude": 51.2211, "longitude": 4.3997}
+            },
+            {
+                "city_name": "Ghent",
+                "city_population": 260341,
+                "city_coordinates": {"latitude": 51.0534, "longitude": 3.7174}
+            }
+        ]
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "population": 3280819,
+        "surface_area": 51197,
+        "flag_description": "A blue field with a yellow triangle and white stars.",
+        "prime_minister": "Borjana Krišto",
+        "government_type": "Parliamentary Republic",
+        "capital": "Sarajevo",
+        "largest_cities": [
+            {
+                "city_name": "Sarajevo",
+                "city_population": 275524,
+                "city_coordinates": {"latitude": 43.8486, "longitude": 18.3564}
+            },
+            {
+                "city_name": "Banja Luka",
+                "city_population": 185042,
+                "city_coordinates": {"latitude": 44.7741, "longitude": 17.1884}
+            },
+            {
+                "city_name": "Tuzla",
+                "city_population": 74245,
+                "city_coordinates": {"latitude": 44.5356, "longitude": 18.6742}
+            }
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "population": 6951482,
+        "surface_area": 110994,
+        "flag_description": "Three horizontal stripes of white, green, and red.",
+        "prime_minister": "Galab Donev",
+        "government_type": "Parliamentary Republic",
+        "capital": "Sofia",
+        "largest_cities": [
+            {
+                "city_name": "Sofia",
+                "city_population": 1241675,
+                "city_coordinates": {"latitude": 42.6977, "longitude": 23.3219}
+            },
+            {
+                "city_name": "Plovdiv",
+                "city_population": 346893,
+                "city_coordinates": {"latitude": 42.1354, "longitude": 24.7454}
+            },
+            {
+                "city_name": "Varna",
+                "city_population": 335177,
+                "city_coordinates": {"latitude": 43.1962, "longitude": 27.9147}
+            }
+        ]
+    },
+    {
+        "country": "Croatia",
+        "population": 4105267,
+        "surface_area": 56594,
+        "flag_description": "Three horizontal stripes of red, white, and blue, with a coat of arms.",
+        "prime_minister": "Andrej Plenković",
+        "government_type": "Parliamentary Republic",
+        "capital": "Zagreb",
+        "largest_cities": [
+            {
+                "city_name": "Zagreb",
+                "city_population": 806341,
+                "city_coordinates": {"latitude": 45.8150, "longitude": 15.9819}
+            },
+            {
+                "city_name": "Split",
+                "city_population": 178102,
+                "city_coordinates": {"latitude": 43.5081, "longitude": 16.4402}
+            },
+            {
+                "city_name": "Rijeka",
+                "city_population": 128624,
+                "city_coordinates": {"latitude": 45.3271, "longitude": 14.4428}
+            }
+        ]
+    },
+    {
+        "country": "Cyprus",
+        "population": 1207359,
+        "surface_area": 9251,
+        "flag_description": "A white flag with a copper-colored silhouette of the island and two olive branches.",
+        "prime_minister": "N/A (President)",
+        "government_type": "Presidential Republic",
+        "capital": "Nicosia",
+        "largest_cities": [
+            {
+                "city_name": "Nicosia",
+                "city_population": 326000,
+                "city_coordinates": {"latitude": 35.1667, "longitude": 33.3667}
+            },
+            {
+                "city_name": "Limassol",
+                "city_population": 235000,
+                "city_coordinates": {"latitude": 34.6833, "longitude": 33.0333}
+            },
+            {
+                "city_name": "Larnaca",
+                "city_population": 144200,
+                "city_coordinates": {"latitude": 34.9167, "longitude": 33.6333}
+            }
+        ]
+    },
+    {
+        "country": "Czech Republic",
+        "population": 10708981,
+        "surface_area": 78865,
+        "flag_description": "Three horizontal stripes of white, red, and blue, with a blue triangle.",
+        "prime_minister": "Petr Fiala",
+        "government_type": "Parliamentary Republic",
+        "capital": "Prague",
+        "largest_cities": [
+            {
+                "city_name": "Prague",
+                "city_population": 1335000,
+                "city_coordinates": {"latitude": 50.0755, "longitude": 14.4378}
+            },
+            {
+                "city_name": "Brno",
+                "city_population": 379000,
+                "city_coordinates": {"latitude": 49.1951, "longitude": 16.6068}
+            },
+            {
+                "city_name": "Ostrava",
+                "city_population": 290000,
+                "city_coordinates": {"latitude": 49.8346, "longitude": 18.2926}
+            }
+        ]
+    },
+    {
+        "country": "Denmark",
+        "population": 5831404,
+        "surface_area": 42924,
+        "flag_description": "A red flag with a white cross extending to the edges.",
+        "prime_minister": "Mette Frederiksen",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Copenhagen",
+        "largest_cities": [
+            {
+                "city_coordinates": {"latitude": 56.1629, "longitude": 10.2039}
+            },
+            {
+                "city_name": "Odense",
+                "city_population": 180000,
+                "city_coordinates": {"latitude": 55.4038, "longitude": 10.4024}
+            }
+        ]
+    },
+    {
+        "country": "Estonia",
+        "population": 1326535,
+        "surface_area": 45227,
+        "flag_description": "Three horizontal stripes of blue, black, and white.",
+        "prime_minister": "Kaja Kallas",
+        "government_type": "Parliamentary Republic",
+        "capital": "Tallinn",
+        "largest_cities": [
+            {
+                "city_name": "Tallinn",
+                "city_population": 438341,
+                "city_coordinates": {"latitude": 59.4370, "longitude": 24.7535}
+            },
+            {
+                "city_name": "Tartu",
+                "city_population": 101000,
+                "city_coordinates": {"latitude": 58.3774, "longitude": 26.7290}
+            },
+            {
+                "city_name": "Narva",
+                "city_population": 58875,
+                "city_coordinates": {"latitude": 59.3790, "longitude": 28.1900}
+            }
+        ]
+    },
+    {
+        "country": "Finland",
+        "population": 5540720,
+        "surface_area": 338424,
+        "flag_description": "A blue Nordic cross on a white field.",
+        "prime_minister": "Petteri Orpo",
+        "government_type": "Parliamentary Republic",
+        "capital": "Helsinki",
+        "largest_cities": [
+            {
+                "city_name": "Helsinki",
+                "city_population": 655281,
+                "city_coordinates": {"latitude": 60.1695, "longitude": 24.9354}
+            },
+            {
+                "city_name": "Espoo",
+                "city_population": 306000,
+                "city_coordinates": {"latitude": 60.2052, "longitude": 24.6559}
+            },
+            {
+                "city_name": "Tampere",
+                "city_population": 238140,
+                "city_coordinates": {"latitude": 61.4981, "longitude": 23.7610}
+            }
+        ]
+    },
+    {
+        "country": "France",
+        "population": 65273511,
+        "surface_area": 551695,
+        "flag_description": "Three vertical stripes of blue, white, and red.",
+        "prime_minister": "Élisabeth Borne",
+        "government_type": "Semi-presidential Republic",
+        "capital": "Paris",
+        "largest_cities": [
+            {
+                "city_name": "Paris",
+                "city_population": 2148327,
+                "city_coordinates": {"latitude": 48.8566, "longitude": 2.3522}
+            },
+            {
+                "city_name": "Marseille",
+                "city_population": 861635,
+                "city_coordinates": {"latitude": 43.2965, "longitude": 5.3698}
+            },
+            {
+                "city_name": "Lyon",
+                "city_population": 513275,
+                "city_coordinates": {"latitude": 45.7640, "longitude": 4.8357}
+            }
+        ]
+    },
+    {
+        "country": "Germany",
+        "population": 83783942,
+        "surface_area": 357022,
+        "flag_description": "Three horizontal stripes of black, red, and gold.",
+        "prime_minister": "Olaf Scholz",
+        "government_type": "Federal Parliamentary Republic",
+        "capital": "Berlin",
+        "largest_cities": [
+            {
+                "city_name": "Berlin",
+                "city_population": 3644826,
+                "city_coordinates": {"latitude": 52.5200, "longitude": 13.4050}
+            },
+            {
+                "city_name": "Hamburg",
+                "city_population": 1841179,
+                "city_coordinates": {"latitude": 53.5511, "longitude": 9.9937}
+            },
+            {
+                "city_name": "Munich",
+                "city_population": 1471508,
+                "city_coordinates": {"latitude": 48.1351, "longitude": 11.5820}
+            }
+        ]
+    },
+    {
+        "country": "Greece",
+        "population": 10423054,
+        "surface_area": 131957,
+        "flag_description": "Nine horizontal stripes of blue and white with a blue canton and a white cross.",
+        "prime_minister": "Kyriakos Mitsotakis",
+        "government_type": "Parliamentary Republic",
+        "capital": "Athens",
+        "largest_cities": [
+            {
+                "city_name": "Athens",
+                "city_population": 664046,
+                "city_coordinates": {"latitude": 37.9838, "longitude": 23.7275}
+            },
+            {
+                "city_name": "Thessaloniki",
+                "city_population": 315196,
+                "city_coordinates": {"latitude": 40.6401, "longitude": 22.9444}
+            },
+            {
+                "city_name": "Patras",
+                "city_population": 213984,
+                "city_coordinates": {"latitude": 38.2466, "longitude": 21.7346}
+            }
+        ]
+    },
+    {
+        "country": "Hungary",
+        "population": 9660351,
+        "surface_area": 93028,
+        "flag_description": "Three horizontal stripes of red, white, and green.",
+        "prime_minister": "Viktor Orbán",
+        "government_type": "Parliamentary Republic",
+        "capital": "Budapest",
+        "largest_cities": [
+            {
+                "city_name": "Budapest",
+                "city_population": 1752286,
+                "city_coordinates": {"latitude": 47.4979, "longitude": 19.0402}
+            },
+            {
+                "city_name": "Debrecen",
+                "city_population": 202214,
+                "city_coordinates": {"latitude": 47.5316, "longitude": 21.6273}
+            },
+            {
+                "city_name": "Szeged",
+                "city_population": 161921,
+                "city_coordinates": {"latitude": 46.2530, "longitude": 20.1414}
+            }
+        ]
+    },
+    {
+        "country": "Iceland",
+        "population": 343599,
+        "surface_area": 103000,
+        "flag_description": "A blue field with a red cross outlined in white.",
+        "prime_minister": "Katrín Jakobsdóttir",
+        "government_type": "Parliamentary Republic",
+        "capital": "Reykjavík",
+        "largest_cities": [
+            {
+                "city_name": "Reykjavík",
+                "city_population": 131136,
+                "city_coordinates": {"latitude": 64.1355, "longitude": -21.8954}
+            },
+            {
+                "city_name": "Kopavogur",
+                "city_population": 36500,
+                "city_coordinates": {"latitude": 64.0835, "longitude": -21.8877}
+            },
+            {
+                "city_name": "Hafnarfjordur",
+                "city_population": 29618,
+                "city_coordinates": {"latitude": 64.0700, "longitude": -21.9834}
+            }
+        ]
+    },
+    {
+        "country": "Ireland",
+        "population": 4937786,
+        "surface_area": 70273,
+        "flag_description": "Three vertical stripes of green, white, and orange.",
+        "prime_minister": "Leo Varadkar",
+        "government_type": "Parliamentary Republic",
+        "capital": "Dublin",
+        "largest_cities": [
+            {
+                "city_name": "Dublin",
+                "city_population": 1173179,
+                "city_coordinates": {"latitude": 53.3331, "longitude": -6.2489}
+            },
+            {
+                "city_name": "Cork",
+                "city_population": 210000,
+                "city_coordinates": {"latitude": 51.8985, "longitude": -8.4756}
+            },
+            {
+                "city_name": "Limerick",
+                "city_population": 93700,
+                "city_coordinates": {"latitude": 52.6638, "longitude": -8.6267}
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "population": 60244639,
+        "surface_area": 301340,
+        "flag_description": "Three vertical stripes of green, white, and red.",
+        "prime_minister": "Giorgia Meloni",
+        "government_type": "Parliamentary Republic",
+        "capital": "Rome",
+        "largest_cities": [
+            {
+                "city_name": "Rome",
+                "city_population": 2873000,
+                "city_coordinates": {"latitude": 41.9028, "longitude": 12.4964}
+            },
+            {
+                "city_name": "Milan",
+                "city_population": 1366180,
+                "city_coordinates": {"latitude": 45.4642, "longitude": 9.1900}
+            },
+            {
+                "city_name": "Naples",
+                "city_population": 962003,
+                "city_coordinates": {"latitude": 40.8522, "longitude": 14.2681}
+            }
+        ]
+    },
+    {
+        "country": "Latvia",
+        "population": 1886198,
+        "surface_area": 64589,
+        "flag_description": "A maroon flag with a white horizontal stripe.",
+        "prime_minister": "Krišjānis Kariņš",
+        "government_type": "Parliamentary Republic",
+        "capital": "Riga",
+        "largest_cities": [
+            {
+                "city_name": "Riga",
+                "city_population": 632614,
+                "city_coordinates": {"latitude": 56.9496, "longitude": 24.1059}
+            },
+            {
+                "city_name": "Daugavpils",
+                "city_population": 82000,
+                "city_coordinates": {"latitude": 55.8780, "longitude": 26.5063}
+            },
+            {
+                "city_name": "Liepāja",
+                "city_population": 68200,
+                "city_coordinates": {"latitude": 56.5082, "longitude": 21.0108}
+            }
+        ]
+    },
+    {
+        "country": "Liechtenstein",
+        "population": 38128,
+        "surface_area": 160,
+        "flag_description": "A blue field with a gold crown in the upper left corner.",
+        "prime_minister": "Daniel Risch",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Vaduz",
+        "largest_cities": [
+            {
+                "city_name": "Vaduz",
+                "city_population": 5456,
+                "city_coordinates": {"latitude": 47.1415, "longitude": 9.5215}
+            },
+            {
+                "city_name": "Schaan",
+                "city_population": 6113,
+                "city_coordinates": {"latitude": 47.1667, "longitude": 9.5167}
+            },
+            {
+                "city_name": "Eschen",
+                "city_population": 4686,
+                "city_coordinates": {"latitude": 47.1999, "longitude": 9.5230}
+            }
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "population": 2722289,
+        "surface_area": 65300,
+        "flag_description": "Three horizontal stripes of yellow, green, and red.",
+        "prime_minister": "Ingrida Šimonytė",
+        "government_type": "Parliamentary Republic",
+        "capital": "Vilnius",
+        "largest_cities": [
+            {
+                "city_name": "Vilnius",
+                "city_population": 574221,
+                "city_coordinates": {"latitude": 54.6872, "longitude": 25.2797}
+            },
+            {
+                "city_name": "Kaunas",
+                "city_population": 289000,
+                "city_coordinates": {"latitude": 54.8985, "longitude": 23.9036}
+            },
+            {
+                "city_name": "Klaipeda",
+                "city_population": 155169,
+                "city_coordinates": {"latitude": 55.6838, "longitude": 21.1447}
+            }
+        ]
+    },
+    {
+        "country": "Luxembourg",
+        "population": 634814,
+        "surface_area": 2586,
+        "flag_description": "Three horizontal stripes of red, white, and light blue.",
+        "prime_minister": "Xavier Bettel",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Luxembourg City",
+        "largest_cities": [
+            {
+                "city_name": "Luxembourg City",
+                "city_population": 128000,
+                "city_coordinates": {"latitude": 49.6117, "longitude": 6.13}
+            },
+            {
+                "city_name": "Esch-sur-Alzette",
+                "city_population": 36100,
+                "city_coordinates": {"latitude": 49.4935, "longitude": 5.9811}
+            },
+            {
+                "city_name": "Differdange",
+                "city_population": 25900,
+                "city_coordinates": {"latitude": 49.5167, "longitude": 5.9667}
+            }
+        ]
+    },
+    {
+        "country": "Malta",
+        "population": 514999,
+        "surface_area": 316,
+        "flag_description": "A white and red flag with a George Cross in the top left corner.",
+        "prime_minister": "Robert Abela",
+        "government_type": "Parliamentary Republic",
+        "capital": "Valletta",
+        "largest_cities": [
+            {
+                "city_name": "Valletta",
+                "city_population": 6000,
+                "city_coordinates": {"latitude": 35.8997, "longitude": 14.5147}
+            },
+            {
+                "city_name": "Sliema",
+                "city_population": 23000,
+                "city_coordinates": {"latitude": 35.9124, "longitude": 14.5084}
+            },
+            {
+                "city_name": "Birkirkara",
+                "city_population": 22387,
+                "city_coordinates": {"latitude": 35.8913, "longitude": 14.4787}
+            }
+        ]
+    },
+    {
+        "country": "Monaco",
+        "population": 39242,
+        "surface_area": 2.02,
+        "flag_description": "Two horizontal stripes of red and white.",
+        "prime_minister": "Pierre Dartout",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Monaco",
+        "largest_cities": [
+            {
+                "city_name": "Monaco",
+                "city_population": 39242,
+                "city_coordinates": {"latitude": 43.7333, "longitude": 7.4167}
+            }
+        ]
+    },
+    {
+        "country": "Montenegro",
+        "population": 622359,
+        "surface_area": 14026,
+        "flag_description": "A red field with a gold border and a gold, double-headed eagle in the center.",
+        "prime_minister": "Dritan Abazović",
+        "government_type": "Parliamentary Republic",
+        "capital": "Podgorica",
+        "largest_cities": [
+            {
+                "city_name": "Podgorica",
+                "city_population": 186400,
+                "city_coordinates": {"latitude": 42.4411, "longitude": 19.2636}
+            },
+            {
+                "city_name": "Nikšić",
+                "city_population": 56787,
+                "city_coordinates": {"latitude": 42.7758, "longitude": 18.9594}
+            },
+            {
+                "city_name": "Herceg Novi",
+                "city_population": 33984,
+                "city_coordinates": {"latitude": 42.4586, "longitude": 18.5333}
+            }
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "population": 17134872,
+        "surface_area": 41850,
+        "flag_description": "Three horizontal stripes of red, white, and blue.",
+        "prime_minister": "Mark Rutte",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Amsterdam",
+        "largest_cities": [
+            {
+                "city_name": "Amsterdam",
+                "city_population": 872680,
+                "city_coordinates": {"latitude": 52.3676, "longitude": 4.9041}
+            },
+            {
+                "city_name": "Rotterdam",
+                "city_population": 651446,
+                "city_coordinates": {"latitude": 51.9225, "longitude": 4.4792}
+            },
+            {
+                "city_name": "The Hague",
+                "city_population": 545227,
+                "city_coordinates": {"latitude": 52.0703, "longitude": 4.3178}
+            }
+        ]
+    },
+    {
+        "country": "Norway",
+        "population": 5421241,
+        "surface_area": 148729,
+        "flag_description": "A red field with a blue cross outlined in white.",
+        "prime_minister": "Jonas Gahr Støre",
+        "government_type": "Constitutional Monarchy",
+        "capital": "Oslo",
+        "largest_cities": [
+            {
+                "city_name": "Oslo",
+                "city_population": 1546706,
+                "city_coordinates": {"latitude": 59.9139, "longitude": 10.7522}
+            },
+            {
+                "city_name": "Bergen",
+                "city_population": 291000,
+                "city_coordinates": {"latitude": 60.3929, "longitude": 5.3241}
+            },
+            {
+                "city_name": "Stavanger",
+                "city_population": 132000,
+                "city_coordinates": {"latitude": 58.9697, "longitude": 5.7331}
+            }
+        ]
+    },
+    {
+        "country": "Poland",
+        "population": 38386000,
+        "surface_area": 312696,
+        "flag_description": "Two horizontal stripes of white and red.",
+        "prime_minister": "Mateusz Morawiecki",
+        "government_type": "Parliamentary Republic",
+        "capital": "Warsaw",
+        "largest_cities": [
+            {
+                "city_name": "Warsaw",
+                "city_population": 1790658,
+                "city_coordinates": {"latitude": 52.2298, "longitude": 21.0118}
+            },
+            {
+                "city_name": "Kraków",
+                "city_population": 800000,
+                "city_coordinates": {"latitude": 50.0647, "longitude": 19.9450}
+            },
+            {
+                "city_name": "Łódź",
+                "city_population": 670000,
+                "city_coordinates": {"latitude": 51.7592, "longitude": 19.4560}
+            }
+        ]
+    },
+    {
+        "country": "Portugal",
+        "population": 10196709,
+        "surface_area": 92212,
+        "flag_description": "Green and red vertical stripes with the national coat of arms in the center.",
+        "prime_minister": "António Costa",
+        "government_type": "Parliamentary Republic",
+        "capital": "Lisbon",
+        "largest_cities": [
+            {
+                "city_name": "Lisbon",
+                "city_population": 506718,
+                "city_coordinates": {"latitude": 38.7169, "longitude": -9.1399}
+            },
+            {
+                "city_name": "Porto",
+                "city_population": 249000,
+                "city_coordinates": {"latitude": 41.1496, "longitude": -8.6109}
+            },
+            {
+                "city_name": "Amadora",
+                "city_population": 175000,
+                "city_coordinates": {"latitude": 38.7618, "longitude": -9.2105}
+            }
+        ]
+    },
+    {
+        "country": "San Marino",
+        "population": 33931,
+        "surface_area": 61,
+        "flag_description": "Two horizontal stripes of white and light blue with the national coat of arms in the center.",
+        "prime_minister": "Fabio Berardi",
+        "government_type": "Parliamentary Republic",
+        "capital": "San Marino",
+        "largest_cities": [
+            {
+                "city_name": "San Marino",
+                "city_population": 33931,
+                "city_coordinates": {"latitude": 43.9333, "longitude": 12.4500}
+            }
+        ]
+    },
+    {
+        "country": "Serbia",
+        "population": 8775050,
+        "surface_area": 77474,
+        "flag_description": "Three horizontal stripes of red, blue, and white, with a white cross in the blue stripe and a Serbian coat of arms.",
+        "prime_minister": "Ana Brnabić",
+        "government_type": "Parliamentary Republic",
+        "capital": "Belgrade",
+        "largest_cities": [
+            {
+                "city_name": "Belgrade",
+                "city_population": 1231280,
+                "city_coordinates": {"latitude": 44.8176, "longitude": 20.4633}
+            },
+            {
+                "city_name": "Novi Sad",
+                "city_population": 250000,
+                "city_coordinates": {"latitude": 45.2517, "longitude": 19.8366}
+            },
+            {
+                "city_name": "Niš",
+                "city_population": 260000,
+                "city_coordinates": {"latitude": 43.3219, "longitude": 21.8954}
+            }
+        ]
+    },
+    {
+        "country": "Slovakia",
+        "population": 5456362,
+        "surface_area": 49035,
+        "flag_description": "Three horizontal stripes of white, blue, and red with a national coat of arms on the left side.",
+        "prime_minister": "Robert Fico",
+        "government_type": "Parliamentary Republic",
+        "capital": "Bratislava",
+        "largest_cities": [
+            {
+                "city_name": "Bratislava",
+                "city_population": 437725,
+                "city_coordinates": {"latitude": 48.1482, "longitude": 17.1067}
+            },
+            {
+                "city_name": "Košice",
+                "city_population": 235000,
+                "city_coordinates": {"latitude": 48.7164, "longitude": 21.2611}
+            },
+            {
+                "city_name": "Prešov",
+                "city_population": 90400,
+                "city_coordinates": {"latitude": 48.9911, "longitude": 21.2305}
+            }
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "population": 2078654,
+        "surface_area": 20273,
+        "flag_description": "Three horizontal stripes of white, blue, and red, with a national coat of arms on the left side.",
+        "prime_minister": "Robert Golob",
+        "government_type": "Parliamentary Republic",
+        "capital": "Ljubljana",
+        "largest_cities": [
+            {
+                "city_name": "Ljubljana",
+                "city_population": 295504,
+                "city_coordinates": {"latitude": 46.0511, "longitude": 14.5051}
+            },
+            {
+                "city_name": "Maribor",
+                "city_population": 114433,
+                "city_coordinates": {"latitude": 46.5547, "longitude": 15.6457}
+            },
+            {
+                "city_name": "Celje",
+                "city_population": 38000,
+                "city_coordinates": {"latitude": 46.2318, "longitude": 15.2601}
+            }
+        ]
+    },
+    {
+        "country": "Spain",
+        "population": 46754778,
+        "surface_area": 505992,
+        "flag_description": "Three horizontal stripes of red, yellow, and red with the national coat of arms on the yellow stripe.",
+        "prime_minister": "Pedro Sánchez",
+        "government_type": "Parliamentary Monarchy",
+        "capital": "Madrid",
+        "largest_cities": [
+            {
+                "city_name": "Madrid",
+                "city_population": 3223334,
+                "city_coordinates": {"latitude": 40.4168, "longitude": -3.7038}
+            },
+            {
+                "city_name": "Barcelona",
+                "city_population": 1620343,
+                "city_coordinates": {"latitude": 41.3851, "longitude": 2.1734}
+            },
+            {
+                "city_name": "Valencia",
+                "city_population": 794288,
+                "city_coordinates": {"latitude": 39.4699, "longitude": -0.3763}
+            }
+        ]
+    },
+    {
+        "country": "Sweden",
+        "population": 10379295,
+        "surface_area": 450295,
+        "flag_description": "A blue field with a yellow cross.",
+        "prime_minister": "Ulf Kristersson",
+        "government_type": "Parliamentary Republic",
+        "capital": "Stockholm",
+        "largest_cities": [
+            {
+                "city_name": "Stockholm",
+                "city_population": 975551,
+                "city_coordinates": {"latitude": 59.3293, "longitude": 18.0686}
+            },
+            {
+                "city_name": "Gothenburg",
+                "city_population": 583556,
+                "city_coordinates": {"latitude": 57.7089, "longitude": 11.9746}
+            },
+            {
+                "city_name": "Malmö",
+                "city_population": 351091,
+                "city_coordinates": {"latitude": 55.6050, "longitude": 13.0038}
+            }
+        ]
+    },
+    {
+        "country": "USA",
+        "population": 331002651,
+        "surface_area": 9833517,
+        "flag_description": "A flag with 13 horizontal stripes of red and white and a blue field with 50 white stars.",
+        "prime_minister": "President Joe Biden",
+        "government_type": "Federal Presidential Constitutional Republic",
+        "capital": "Washington, D.C.",
+        "largest_cities": [
+            {
+                "city_name": "New York City",
+                "city_population": 8419600,
+                "city_coordinates": {"latitude": 40.7128, "longitude": -74.0060}
+            },
+            {
+                "city_name": "Los Angeles",
+                "city_population": 3980400,
+                "city_coordinates": {"latitude": 34.0522, "longitude": -118.2437}
+            },
+            {
+                "city_name": "Chicago",
+                "city_population": 2716000,
+                "city_coordinates": {"latitude": 41.8781, "longitude": -87.6298}
+            }
+        ]
+    },
+    {
+        "country": "South Korea",
+        "population": 51780579,
+        "surface_area": 100210,
+        "flag_description": "A white field with a red and blue yin-yang symbol and four black trigrams in the corners.",
+        "prime_minister": "Han Duck-soo",
+        "government_type": "Presidential Republic",
+        "capital": "Seoul",
+        "largest_cities": [
+            {
+                "city_name": "Seoul",
+                "city_population": 9733509,
+                "city_coordinates": {"latitude": 37.5665, "longitude": 126.9780}
+            },
+            {
+                "city_name": "Busan",
+                "city_population": 3464225,
+                "city_coordinates": {"latitude": 35.1796, "longitude": 129.0756}
+            },
+            {
+                "city_name": "Incheon",
+                "city_population": 2953446,
+                "city_coordinates": {"latitude": 37.4563, "longitude": 126.7052}
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "population": 125836021,
+        "surface_area": 377975,
+        "flag_description": "A white field with a red circle in the center.",
+        "prime_minister": "Fumio Kishida",
+        "government_type": "Constitutional Monarchy with a Parliamentary Government",
+        "capital": "Tokyo",
+        "largest_cities": [
+            {
+                "city_name": "Tokyo",
+                "city_population": 13929286,
+                "city_coordinates": {"latitude": 35.6762, "longitude": 139.6503}
+            },
+            {
+                "city_name": "Yokohama",
+                "city_population": 3748785,
+                "city_coordinates": {"latitude": 35.4437, "longitude": 139.6380}
+            },
+            {
+                "city_name": "Osaka",
+                "city_population": 2718173,
+                "city_coordinates": {"latitude": 34.6937, "longitude": 135.5023}
+            }
+        ]
+    },
+    {
+        "country": "Romania",
+        "population": 19237691,
+        "surface_area": 238397,
+        "flag_description": "Three vertical stripes of blue, yellow, and red.",
+        "prime_minister": "Marcel Ciolacu",
+        "government_type": "Semi-Presidential Republic",
+        "capital": "Bucharest",
+        "largest_cities": [
+            {
+                "city_name": "Bucharest",
+                "city_population": 1883425,
+                "city_coordinates": {"latitude": 44.4268, "longitude": 26.1025}
+            },
+            {
+                "city_name": "Cluj-Napoca",
+                "city_population": 324576,
+                "city_coordinates": {"latitude": 46.7712, "longitude": 23.6236}
+            },
+            {
+                "city_name": "Timișoara",
+                "city_population": 319279,
+                "city_coordinates": {"latitude": 45.7489, "longitude": 21.2087}
+            }
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "population": 67886011,
+        "surface_area": 243610,
+        "flag_description": "A blue field with a red cross edged in white superimposed on a diagonal red and white saltire.",
+        "prime_minister": "Rishi Sunak",
+        "government_type": "Parliamentary Constitutional Monarchy",
+        "capital": "London",
+        "largest_cities": [
+            {
+                "city_name": "London",
+                "city_population": 8982000,
+                "city_coordinates": {"latitude": 51.5074, "longitude": -0.1278}
+            },
+            {
+                "city_name": "Birmingham",
+                "city_population": 1141816,
+                "city_coordinates": {"latitude": 52.4862, "longitude": -1.8904}
+            },
+            {
+                "city_name": "Manchester",
+                "city_population": 553230,
+                "city_coordinates": {"latitude": 53.4808, "longitude": -2.2426}
+            }
+        ]
+    },
+    {
+        "country": "China",
+        "population": 1444216107,
+        "surface_area": 9596961,
+        "flag_description": "A red field with five yellow stars in the top-left corner.",
+        "prime_minister": "Li Qiang",
+        "government_type": "Communist One-Party State",
+        "capital": "Beijing",
+        "largest_cities": [
+            {
+                "city_name": "Shanghai",
+                "city_population": 26317104,
+                "city_coordinates": {"latitude": 31.2304, "longitude": 121.4737}
+            },
+            {
+                "city_name": "Beijing",
+                "city_population": 21540000,
+                "city_coordinates": {"latitude": 39.9042, "longitude": 116.4074}
+            },
+            {
+                "city_name": "Chongqing",
+                "city_population": 16382376,
+                "city_coordinates": {"latitude": 29.5630, "longitude": 106.5516}
+            }
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "population": 8740000,
+        "surface_area": 41285,
+        "flag_description": "A red field with a white cross in the center.",
+        "prime_minister": "Alain Berset (President of the Swiss Confederation)",
+        "government_type": "Federal Directorial Republic",
+        "capital": "Bern",
+        "largest_cities": [
+            {
+                "city_name": "Zurich",
+                "city_population": 415215,
+                "city_coordinates": {"latitude": 47.3769, "longitude": 8.5417}
+            },
+            {
+                "city_name": "Geneva",
+                "city_population": 203856,
+                "city_coordinates": {"latitude": 46.2044, "longitude": 6.1432}
+            },
+            {
+                "city_name": "Basel",
+                "city_population": 178872,
+                "city_coordinates": {"latitude": 47.5596, "longitude": 7.5886}
+            }
+        ]
+    }
+]
