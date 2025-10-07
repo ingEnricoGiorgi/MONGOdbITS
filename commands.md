@@ -1,0 +1,1 @@
+crea due tabelle vere e proprie installa sql lite
