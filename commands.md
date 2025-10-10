@@ -8,3 +8,7 @@ cd venv2
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\venv2\Scripts\activate
+
+
+
+sql lite e SQLite Viewer
