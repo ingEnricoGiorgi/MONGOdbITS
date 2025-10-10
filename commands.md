@@ -12,3 +12,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 
 sql lite e SQLite Viewer
+
+
+con mongodb nel nome poi basta runnare
