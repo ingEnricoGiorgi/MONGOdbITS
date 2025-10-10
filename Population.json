@@ -1,10 +1,3 @@
-                "city_name": "Copenhagen",
-                "city_population": 794128,
-                "city_coordinates": {"latitude": 55.6761, "longitude": 12.5683}
-            },
-            {
-                "city_name": "Aarhus",
-                "city_population": 280000,
 [
     {
         "country": "Albania",
@@ -276,6 +269,13 @@
         "capital": "Copenhagen",
         "largest_cities": [
             {
+                "city_name": "Copenhagen",
+                "city_population": 794128,
+                "city_coordinates": {"latitude": 55.6761, "longitude": 12.5683}
+            },
+            {
+                "city_name": "Aarhus",
+                "city_population": 280000,
                 "city_coordinates": {"latitude": 56.1629, "longitude": 10.2039}
             },
             {
