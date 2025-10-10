@@ -1,23 +1,25 @@
+require('dotenv').config(); // <-- legge il file .env
 const { MongoClient } = require('mongodb');
 const fs = require('fs');
 
 (async () => {
-  const uri = 'mongodb+srv://enricogiorgi92_db_user:sqKgWNNBMS9VY0Lt@cluster0.6dhmk95.mongodb.net/?retryWrites=true&w=majority';
-  const client = new MongoClient(uri);
+  const uri = process.env.MONGO_URI; // <-- richiama la variabile
+  const dbName = process.env.DB_NAME || 'miodb';
+  const collectionName = process.env.COLLECTION || 'europe_population';
 
+  const client = new MongoClient(uri);
   try {
     await client.connect();
-    const db = client.db('miodb');
-    const col = db.collection('europe');
+    const db = client.db(dbName);
+    const col = db.collection(collectionName);
 
-    const filePath = 'C:\\Users\\ITS_allievo\\Desktop\\Enrico G\\github\\MongoDBvsCode\\europe_population.json';
-    const data = fs.readFileSync(filePath, 'utf8');
-    const documents = JSON.parse(data);
+    const raw = fs.readFileSync('europe_population.json', 'utf8');
+    const docs = JSON.parse(raw);
 
-    const result = await col.insertMany(documents);
-    console.log(`Inseriti ${result.insertedCount} documenti.`);
+    const result = await col.insertMany(docs);
+    console.log(`✅ Inseriti ${result.insertedCount} documenti`);
   } catch (err) {
-    console.error('Errore:', err.message);
+    console.error('❌ Errore:', err.message);
   } finally {
     await client.close();
   }
